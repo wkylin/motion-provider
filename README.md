@@ -4,7 +4,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/motion-provider/main/logo.svg" width="40%" alt="Motion Provider" />
+  ![motion-provider-banner](https://github.com/user-attachments/assets/3d04e609-9104-422e-b6f8-054e3a29d449)
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
