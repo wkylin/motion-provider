@@ -156,3 +156,8 @@ Motion Provider comes with comprehensive documentation to help you get the most 
   <img src="assets/example-saas.gif" width="45%" alt="SaaS SPA App Example" style="margin: 10px;">
   <img src="assets/example-crypto.gif" width="45%" alt="Crypto Landing App Example" style="margin: 10px;">
 </div>
+
+## Contact
+For support and inquiries:
+
+Email: hello@burakdev.com
