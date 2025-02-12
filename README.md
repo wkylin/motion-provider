@@ -7,37 +7,62 @@
 
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="https://motion-provider.dev" target="_blank" style="margin: 2px;">
+  <a href="https://burakdev.com/motion-provider" target="_blank" style="margin: 2px;">
     <img alt="Documentation" src="https://img.shields.io/badge/Docs-Motion%20Provider-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://npmjs.com/package/motion-provider" target="_blank" style="margin: 2px;">
     <img alt="NPM" src="https://img.shields.io/badge/npm-motion--provider-cb3837?logo=npm" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://github.com/yourusername/motion-provider" target="_blank" style="margin: 2px;">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/yourusername/motion-provider?style=social"/>
+  <a href="https://github.com/Masculinn/motion-provider" target="_blank" style="margin: 2px;">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Masculinn/motion-provider?style=social"/>
   </a>
 </div>
 
 <div align="center" style="line-height: 1;">
-  <a href="https://discord.gg/your-invite" target="_blank" style="margin: 2px;">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-Community-7289da?logo=discord" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank" style="margin: 2px;">
+  <a href="https://x.com/masculinnnnn" target="_blank" style="margin: 2px;">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
 <div align="center" style="line-height: 1;">
-  <a href="https://github.com/yourusername/motion-provider/blob/main/LICENSE" style="margin: 2px;">
+  <a href="https://github.com/Masculinn/motion-provider/blob/main/LICENSE" style="margin: 2px;">
     <img alt="License" src="https://img.shields.io/badge/License-MIT-brightgreen"/>
   </a>
 </div>
 
 <p align="center">
-  <a href="https://motion-provider.dev/docs"><b>Documentation</b>📚</a>
+  <a href="https://burakdev.com/motion-provider"><b>Documentation Application</b>📚</a>
 </p>
 
-## 1. Introduction
+
+Dear Fellow Developer, 
+
+Thank you for being here and taking the time to explore this project. If you are roaming the industry, you will hear my name often in some social apps, linkedin, x, dev.to, daily.dev etc. Follow me via socials🌟. Over the past month, I’ve poured 160+ hours of passion into crafting this project, aiming to give you everything you need to bring your creative visions to life—without compromises. Do not forget everything free-to-use, open-sourced for the developer who has real passion to make the web better! 
+
+With this, you can build: 
+
+-🚀 Stunning SaaS platforms, 
+<p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/yourusername/motion-provider/main/demo.gif">
+</p>
+-🎯 Pixel-perfect landing pages, 
+<p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/yourusername/motion-provider/main/demo.gif">
+</p>
+-💼 Portfolios that captivate clients
+<p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/yourusername/motion-provider/main/demo.gif">
+</p>
+
+...and truly, anything you imagine. No need to google for animations, No need to copy paste entire complicated components that you feel extremely confused instead here you are simply going through the engines, If you do not have idea about the animations you want to generate kindly press 'roll a dice' button and let the engines generates you fully unique animations among 21,840 animation combination.
+
+Special thanks to Motion team (old name: framer-motion) for being a held on the back side by publishing their animation API's open-sourced to the people ❤️
+
+## Introduction
+
+*I know animations are challenging to implement as well as finding the right library to suit your needs, creating animations for different elements and components, and managing them consistently across your application can be time-consuming and require significant effort and patience.* 
+
+This is where <MotionContainer /> and useAnimationMixer() comes in. It’s a highly customizable, using a tiny (0.6kb) hook from motion and lightning-fast React component built to simplify the process of adding sophisticated animations. Leveraging the Motion library, it provides developers with a declarative approach to animate child elements based on their visibility in the viewport. With pre-defined animation modes and transition configurations, it eliminates the repetitive work of manually creating animations for every element, streamlining the process while delivering polished results.
 
 Motion Provider is a React animation library that simplifies complex motion design through a centralized animation system (CAS). It provides:
 
