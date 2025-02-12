@@ -161,9 +161,3 @@ Motion Provider comes with comprehensive documentation to help you get the most 
 For support and inquiries:
 
 Email: hello@burakdev.com
-
-[Buy Me Coffee]("https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg")
-
-<a align="center" target="_blank" src="https://buymeacoffee.com/bilenburakf">
-  <img width="80%" src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg">
-</a>
