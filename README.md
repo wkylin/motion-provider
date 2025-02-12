@@ -3,9 +3,8 @@
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
 
-<div align="center">
-  ![motion-provider-banner](https://github.com/user-attachments/assets/3d04e609-9104-422e-b6f8-054e3a29d449)
-</div>
+![motion-provider-banner](https://github.com/user-attachments/assets/3d04e609-9104-422e-b6f8-054e3a29d449)
+
 <hr>
 <div align="center" style="line-height: 1;">
   <a href="https://motion-provider.dev" target="_blank" style="margin: 2px;">
