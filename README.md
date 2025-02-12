@@ -162,7 +162,7 @@ For support and inquiries:
 
 Email: hello@burakdev.com
 
-
+["https://buymeacoffee.com/bilenburakf"]("https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg")
 <a align="center" target="_blank" src="https://buymeacoffee.com/bilenburakf">
   <img width="80%" src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg">
 </a>
