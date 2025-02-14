@@ -44,15 +44,15 @@ With this, you can build:
 -🚀 Stunning SaaS platforms,
 
 <p align="center">
-  <img width="80%" src="/assets/projects/thumbs/saas-thumb.gif">
+  <img width="80%" src="/public/assets/projects/thumbs/saas-thumb.gif">
 </p>
 -🎯 Pixel-perfect landing pages, 
 <p align="center">
-  <img width="80%" src="/assets/projects/thumbs/nft-thumb.gif">
+  <img width="80%" src="/public/assets/projects/thumbs/nft-thumb.gif">
 </p>
 -💼 Portfolios that captivate clients
 <p align="center">
-  <img width="80%" src="/assets/projects/thumbs/agency-thumb.gif">
+  <img width="80%" src="public/assets/projects/thumbs/agency-thumb.gif">
 </p>
 
 ...and truly, anything you imagine. No need to google for animations, No need to copy paste entire complicated components that you feel extremely confused instead here you are simply going through the engines, If you do not have idea about the animations you want to generate kindly press 'roll a dice' button and let the engines generates you fully unique animations among 21,840 animation combination.
