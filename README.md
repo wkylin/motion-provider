@@ -11,17 +11,13 @@
   <a href="https://burakdev.com/motion-provider" target="_blank" style="margin: 2px;">
     <img alt="Documentation" src="https://img.shields.io/badge/Docs-Motion%20Provider-536af5?color=536af5&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
-  <a href="https://npmjs.com/package/motion-provider" target="_blank" style="margin: 2px;">
-    <img alt="NPM" src="https://img.shields.io/badge/npm-motion--provider-cb3837?logo=npm" style="display: inline-block; vertical-align: middle;"/>
-  </a>
   <a href="https://github.com/Masculinn/motion-provider" target="_blank" style="margin: 2px;">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Masculinn/motion-provider?style=social"/>
   </a>
 </div>
-
 <div align="center" style="line-height: 1;">
   <a href="https://x.com/masculinnnnn" target="_blank" style="margin: 2px;">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter" style="display: inline-block; vertical-align: middle;"/>
+    <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-@masculinnn-1DA1F2?logo=twitter" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
