@@ -168,7 +168,7 @@ export default function Home() {
             duration={1}
             delay={0}
             children={
-              <h1 className="lg:text-5xl text-3xl tracking-tighter bg-gradient-to-r from-cyan-400 to-blue-500 text-transparent bg-clip-text">
+              <h1 className="lg:text-5xl text-3xl tracking-tighter bg-linear-to-r from-cyan-400 to-blue-500 text-transparent bg-clip-text">
                 Motion Provider
               </h1>
             }
